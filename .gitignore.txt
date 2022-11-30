@@ -1,0 +1,4 @@
+/src
+/duild
+/test
+/dist
